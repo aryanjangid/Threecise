@@ -9,7 +9,6 @@
 thats where Threecise comes in... learn some dance moves and workouts by a bot 🤖 in 3D how cool that sounds right🤩 !!
 zoom in / out to properly focus 🧐 on a particular body movement of the excercise , rotate the bot for better visualization 👁️👄👁️ and much more..... on a single web app✨
     <br />
-    <a href="https://github.com/Sourabh-Bharale/fitnessThreejs"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://threecise.vercel.app">View Deployment </a>
